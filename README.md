@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Everlyne Kemo and I'm a Software Engineer, from Mars</h4>
+<h4 align="left">👋 Hey there! I'm Everlyne Kemo, a passionate coder and tech enthusiast on a journey to explore the digital realm. With a love for problem-solving and a knack for turning caffeine into code, I'm constantly seeking ways to merge creativity with functionality. Whether it's crafting elegant algorithms or diving into the latest frameworks, I'm always excited to embrace new challenges. When I'm not glued to my screen, you can find me exploring the outdoors or enjoying a good book. Let's connect and collaborate on some exciting projects!</h4>
 
 ###
 
