@@ -3,8 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kemoeverlyne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kemoeverlyne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+ <a href="http://www.github.com/kemoeverlyne"><img src="https://github-readme-stats.vercel.app/api?username=kemoeverlyne&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="kemoeverlyne's GitHub stats" /></a>
+
+<a href="http://www.github.com/kemoeverlyne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kemoeverlyne&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/kemoeverlyne"><img src="https://activity-graph.herokuapp.com/graph?username=kemoeverlyne&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
 ###
